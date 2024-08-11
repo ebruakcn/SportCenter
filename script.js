@@ -10,6 +10,7 @@ window.onscroll = function() {
     }
 };
 
+
 //Navbar Responsive Toogle Menu
 function toggleMenu() {
     const navLinks = document.querySelector('.nav-links');
